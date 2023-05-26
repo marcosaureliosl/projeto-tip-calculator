@@ -2,7 +2,7 @@
 ![2023-05-26 (1)](https://github.com/marcosaureliosl/projeto-tip-calculator/assets/127764997/0e359e39-9998-4a9f-a78b-f500422731f8)
 ![2023-05-26 (2)](https://github.com/marcosaureliosl/projeto-tip-calculator/assets/127764997/0973ffa8-f100-4b7b-9205-c9bbc242cbd3)
 
-### Super feliz com esse desafio, é notorio meu desenvolvimento.
+### Super feliz com esse desafio.
 
 # # Neste desafio usei bastante a habilidade J.S, tenho muito a melhorar 
 
